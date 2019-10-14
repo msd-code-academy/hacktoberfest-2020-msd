@@ -1,0 +1,14 @@
+body {
+  font-family: 'Baloo Bhai', cursive;
+}
+
+.homepage__headings {
+  text-align: center;
+}
+
+.homepage_list {
+  width: 30%;
+  margin: auto;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+}
