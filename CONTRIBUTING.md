@@ -20,3 +20,9 @@ Keep in mind while creating commits:
 - if you like emojis, use [Gitmoji](https://gitmoji.carloscuesta.me/)
 - for commits related to some issue, include the number in message eg
   `🐛 #42 Fix wrong styles`
+
+## Guidance
+* [set up git](https://help.github.com/en/github/getting-started-with-github/set-up-git)
+* [create fork](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
+* [create a branch](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches)
+* [create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
